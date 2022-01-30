@@ -1,0 +1,20 @@
+
+body
+{
+  background-color: powderblue;
+
+
+}
+h1:hover
+{
+  color:red;
+}
+.school:hover {
+ background-color: gold;
+}
+.link:hover{
+  background-color: blue;
+}
+.vlink:hover{
+  background-color: yellow;
+}
